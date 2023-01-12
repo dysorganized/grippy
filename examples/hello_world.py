@@ -7,5 +7,7 @@ app = grippy.App()
 def greet(times: int, name: str) -> str:
     return times * f"Hello {name}\n"
 
-print(app.proto)
-app.build()
+if __name__ == "__main__":
+    print(app.proto)
+    app.build()
+    app.run()

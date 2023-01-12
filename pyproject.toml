@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "grippy"
-version = "0.0.1"
+version = "0.0.2"
 description = ""
 authors = ["Erik Hasse <erik.g.hasse@gmail.com>"]
 readme = "README.md"
